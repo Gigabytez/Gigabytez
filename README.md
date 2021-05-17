@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gigabytez
+- 👀 I’m interested in building and learning
+- 🌱 I’m currently learning JS, jQuery, PowerShell, and more.
